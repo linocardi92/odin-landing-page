@@ -19,6 +19,7 @@ body {
 .top {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 .logo {
@@ -36,6 +37,25 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-text {
+    flex: 1;
+}
+
+.main-img {
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .title {
