@@ -36,6 +36,16 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+a, .secondary {
     font-size: 18px;
     color: #E5E7EB;
 }
