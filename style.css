@@ -11,7 +11,7 @@ body {
 .header {
     color: white;
     background-color: #1F2937;
-    padding: 0 100px;
+    padding: 0 200px;
     display: flex;
     flex-direction: column;
 }
@@ -42,17 +42,16 @@ a {
 .main {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 40px;
 }
 
 .main-text {
-    flex: 1;
 }
 
 .main-img {
     background-color: grey;
-    width: 200px;
+    width: 400px;
     height: 200px;
-    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
