@@ -8,7 +8,7 @@ This is the **Landing page** project for the Flexbox section of the TOP's founda
 
 ### Disclaimer
 
-TOP hasn't got an flight company and this project is entirely a product of my imagination.
+TOP hasn't got a flight company and this project is entirely a product of my imagination.
 
 #### Credits
 
