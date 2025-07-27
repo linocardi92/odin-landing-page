@@ -1,5 +1,12 @@
-# odin-landing-page
+# Air-Odin-landing-page (Unofficial)
 
-This is the second project related to my journey on TOP.
+Welcome to Air Odin's main page.
 
-#### Coming Soon...
+## Description
+
+This is the **Landing page** project for the Flexbox section of the TOP's foundation course.
+
+#### Disclaimer
+
+TOP hasn't got an flight company and this project is entirely a product of my imagination.
+
