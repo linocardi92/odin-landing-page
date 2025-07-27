@@ -27,11 +27,6 @@ body {
     font-size: 24px;
 }
 
-.main-img {
-    display: flex;
-    justify-content: center;
-}
-
 ul {
     display: flex;
     margin: 0;
@@ -46,8 +41,22 @@ a {
 
 .main {
     display: flex;
-    justify-content: space-between;
+    justify-content: space;
     margin-bottom: 40px;
+}
+
+.main-img {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+
+.header img {
+    flex: 1;
+}
+
+.main-text {
+    flex: 1;
 }
 
 .title {
