@@ -76,7 +76,12 @@ a, .secondary {
 }
 
 button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #3882F6;
     color: #F9FAF8;
     border: none;
+    border-radius: 5px;
+    padding: 3px 15px;
 }
