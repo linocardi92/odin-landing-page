@@ -45,15 +45,6 @@ a {
     margin-bottom: 40px;
 }
 
-.main-img {
-    background-color: grey;
-    width: 400px;
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .title {
     color: #F9FAF8;
     font-size: 48px;
