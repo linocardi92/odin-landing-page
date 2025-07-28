@@ -25,18 +25,12 @@ body {
     padding-bottom: 0px;
     display: flex;
     flex-direction: column;
-    flex: 1;
 }
 
 .top {
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
-}
-
-.logo {
-    color: #F9FAF8;
-    font-size: 24px;
 }
 
 ul {
@@ -47,6 +41,11 @@ ul {
     gap: 12px;
 }
 
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
 a {
     text-decoration: none;
 }
@@ -54,7 +53,9 @@ a {
 .main {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 40px;
+    align-items: center;
+    padding-bottom: 40px;
+    height: 400px;
     gap: 20px;
 }
 
