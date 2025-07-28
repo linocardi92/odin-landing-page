@@ -12,8 +12,8 @@ body {
 }
 
 .header, .info {
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-left: 350px;
+    padding-right: 350px;
 }
 
 /* HEADER style */
@@ -53,9 +53,16 @@ a {
 .main {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding-bottom: 40px;
-    height: 350px;
+    height: 300px;
+}
+
+.main-container {
+    display: flex;
+    align-items: flex-start;
     gap: 42px;
+    flex: 1;
 }
 
 .main-img {
@@ -65,7 +72,7 @@ a {
 }
 
 .header img {
-    max-width: 100%;
+    flex: auto;
 }
 
 .main-text {
