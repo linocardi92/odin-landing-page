@@ -47,7 +47,7 @@ a {
 
 .main {
     display: flex;
-    justify-content: space;
+    justify-content: space-between;
     margin-bottom: 40px;
     gap: 20px;
 }
@@ -55,6 +55,7 @@ a {
 .main-img {
     display: flex;
     justify-content: center;
+    flex: 1;
 }
 
 .header img {
