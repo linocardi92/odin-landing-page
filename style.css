@@ -92,3 +92,9 @@ button {
 }
 
 /* INFO section style */
+
+.info {
+    text-align: center;
+    padding: 20px 0px;
+    margin: 0;
+}
