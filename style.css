@@ -96,7 +96,7 @@ button {
 
 .info {
     text-align: center;
-    padding: 20px 0px;
+    padding: 20px 250px 50px 250px;
     margin: 0;
     flex: 1;
 }
@@ -105,6 +105,7 @@ button {
     color: #1F2937;
     font-size: 36px;
     font-weight: 900;
+    margin-bottom: 20px;
 }
 
 .info .container {
