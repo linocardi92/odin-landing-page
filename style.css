@@ -55,7 +55,7 @@ a {
     justify-content: space-between;
     align-items: center;
     padding-bottom: 40px;
-    height: 300px;
+    height: 320px;
 }
 
 .main-container {
@@ -67,12 +67,13 @@ a {
 
 .main-img {
     display: flex;
-    justify-content: center;
+    justify-content: right;
     flex: 1;
 }
 
 .header img {
     flex: auto;
+    max-width: 500px;
 }
 
 .main-text {
@@ -125,6 +126,7 @@ button {
 
 .info .container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
