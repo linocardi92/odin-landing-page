@@ -4,6 +4,7 @@
 
 body {
     font-family: Roboto, sans-serif;
+    height: 100vh;
     padding: 0;
     margin: 0;
     display: flex;
@@ -49,12 +50,12 @@ a {
     justify-content: space;
     margin-bottom: 40px;
     gap: 20px;
+    flex: 1;
 }
 
 .main-img {
     display: flex;
     justify-content: center;
-    flex: 1;
 }
 
 .header img {
