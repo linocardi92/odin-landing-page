@@ -11,7 +11,7 @@ body {
     flex-direction: column;
 }
 
-.header, .info {
+.header, .info, .registration {
     padding-left: 350px;
     padding-right: 350px;
 }
@@ -184,11 +184,13 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 500px;
 }
 
 .registration .container {
-    flex: 0 1 600px;
+    display: flex;
     height: 300px;
 }
 
