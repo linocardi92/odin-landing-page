@@ -117,6 +117,17 @@ button {
     flex: 0 0 500px;
 }
 
-/* SIGN UP */
+/* REGISTRATION */
+
+.registration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.registration .container {
+    flex: 0 1 600px;
+    height: 300px;
+}
 
 /* FOOTER */
