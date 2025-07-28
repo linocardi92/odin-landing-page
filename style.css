@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* total document style */
+
 body {
     font-family: Roboto, sans-serif;
     padding: 0;
@@ -7,6 +9,8 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+/* HEADER style */
 
 .header {
     color: white;
@@ -86,3 +90,5 @@ button {
     padding: 3px 15px;
     margin-top: 5px;
 }
+
+/* INFO section style */
