@@ -111,8 +111,8 @@ button {
 
 .info {
     text-align: center;
-    padding-top: 25px;
-    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 100px;
     margin: 0;
     flex: 1;
 }
@@ -156,13 +156,13 @@ button {
     justify-content: center;
     align-items: center;
     background-color: #E5E7EB;
-    padding: 0;
+    padding: 150px 0;
     margin: 0;
     flex: 1;
 }
 
 .quote-container {
-    width: 500px;
+    max-width: 800px;
 }
 
 .quote .main-text {
@@ -172,6 +172,9 @@ button {
     font-style: italic;
 }
 
+.credit {
+    text-align: right;
+}
 /* REGISTRATION */
 
 .registration {
