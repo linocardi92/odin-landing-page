@@ -107,6 +107,15 @@ button {
     font-weight: 900;
 }
 
+.info .container {
+    display: flex;
+}
+
+.info img {
+    width: 100px;
+    height: 100px;
+}
+
 /* QUOTE */
 
 .quote {
