@@ -107,6 +107,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #E5E7EB;
     padding: 0;
     margin: 0;
     flex: 1;
