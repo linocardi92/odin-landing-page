@@ -112,6 +112,13 @@ button {
     display: flex;
 }
 
+.info-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
 .info img {
     width: 150px;
     height: 160px;
