@@ -118,14 +118,18 @@ button {
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    width: 150px;
+    width: 170px;
 }
 
 .info img {
-    width: 150px;
-    height: 160px;
+    width: 170px;
+    height: 180px;
     border: 5px solid #3882F6;
     border-radius: 10%;
+}
+
+.info-box .text {
+    font-size: 18px;
 }
 
 /* QUOTE */
