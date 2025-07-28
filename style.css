@@ -101,6 +101,12 @@ button {
     flex: 1;
 }
 
+.info .title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
 /* QUOTE */
 
 .quote {
@@ -114,8 +120,10 @@ button {
 }
 
 .quote-container {
-    flex: 0 0 500px;
+    width: 500px;
 }
+
+
 
 /* REGISTRATION */
 
