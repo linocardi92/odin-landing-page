@@ -6,6 +6,8 @@ Welcome to Air Odin's main page.
 
 This is the **Landing page** project for the Flexbox section of the TOP's foundation course.
 
+![Site Screenshoot](./img/screenshoot.png)
+
 ## Sections
 
 ### Header
