@@ -6,6 +6,26 @@ Welcome to Air Odin's main page.
 
 This is the **Landing page** project for the Flexbox section of the TOP's foundation course.
 
+This page is composed by four main sections:
+
+### Header
+
+On the top of the page you will see the header with on top the **Logo** and three links with *Plan, reservations and questions* and on the middle a quote, the sign in button and an image of a plane.
+
+### Destinations
+
+Here you will see the images of three main company's destinations.
+
+### Quote
+
+A great aphorism on the fly.
+
+### Sign in form
+
+A form with a phrase and the sign in button.
+
+
+
 ### Disclaimer
 
 TOP hasn't got a flight company and this project is entirely a product of my imagination.
