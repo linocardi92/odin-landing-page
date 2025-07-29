@@ -195,7 +195,7 @@ button {
     align-items: center;
     justify-content: space-around;
     flex: 1;
-    height: 200px;
+    height: 180px;
     background-color: #3882F6;
     padding: 0px;
     color: #F9FAF8;
@@ -214,5 +214,5 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 72px;
+    min-height: 72px;
 }
