@@ -192,11 +192,14 @@ button {
 .registration .container {
     display: flex;
     box-sizing: border-box;
+    align-items: center;
     flex: 1;
     height: 200px;
     background-color: #3882F6;
-    padding: 12px;
+    padding: 0px 32px;
 }
+
+
 
 /* FOOTER */
 
