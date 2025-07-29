@@ -193,11 +193,11 @@ button {
     display: flex;
     box-sizing: border-box;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     flex: 1;
     height: 200px;
     background-color: #3882F6;
-    padding: 0px 32px;
+    padding: 0px;
     color: #F9FAF8;
 }
 
