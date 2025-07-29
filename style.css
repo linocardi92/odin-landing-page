@@ -100,7 +100,7 @@ button {
     color: #F9FAF8;
     border: none;
     border-radius: 5px;
-    padding: 3px 15px;
+    padding: 8px 20px;
     margin-top: 5px;
 }
 
@@ -206,7 +206,9 @@ button {
     font-weight: bold;
 }
 
-
+.registration button {
+    border: 1px solid #F9FAF8;
+}
 
 /* FOOTER */
 
