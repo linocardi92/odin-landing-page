@@ -193,6 +193,7 @@ button {
     display: flex;
     box-sizing: border-box;
     align-items: center;
+    justify-content: space-between;
     flex: 1;
     height: 200px;
     background-color: #3882F6;
