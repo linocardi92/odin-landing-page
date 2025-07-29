@@ -152,7 +152,8 @@ button:hover {
 }
 
 .info-box .text {
-    font-size: 18px;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 /* QUOTE */
