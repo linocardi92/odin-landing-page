@@ -65,13 +65,13 @@ a {
 
 .main-img {
     display: flex;
-    justify-content: right;
+    justify-content: center;
     flex: 1;
 }
 
 .header img {
     flex: auto;
-    max-width: 500px;
+    max-width: 400px;
     border-radius: 10px;
 }
 
@@ -92,6 +92,18 @@ p {
 a, .secondary {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+a {
+    box-sizing: border-box;
+    padding: 5px;
+    transition-duration: 0.4s;
+    border-radius: 5px;
+}
+
+a:hover {
+    color: #1F2937;
+    background-color: #F9FAF8;
 }
 
 button {
@@ -165,7 +177,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: #E5E7EB;
-    padding: 20px 0;
+    padding: 50px 0;
     margin: 0;
     flex: 1;
 }
