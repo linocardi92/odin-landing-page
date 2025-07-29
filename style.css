@@ -102,6 +102,12 @@ button {
     border-radius: 5px;
     padding: 8px 20px;
     margin-top: 5px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #F9FAF8;
+    color: #3882F6;
 }
 
 /* INFO section style */
