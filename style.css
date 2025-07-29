@@ -136,7 +136,7 @@ button {
 
 .info img {
     width: 170px;
-    height: 180px;
+    height: 170px;
     border: 5px solid #3882F6;
     border-radius: 10%;
 }
@@ -185,7 +185,6 @@ button {
 
 .registration .container {
     display: flex;
-    height: 400px;
 }
 
 /* FOOTER */
