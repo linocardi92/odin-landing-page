@@ -52,18 +52,17 @@ a {
 
 .main {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     padding-top: 50px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 
-.main-container {
+/*.main-container {
     display: flex;
     align-items: flex-start;
     gap: 42px;
     flex: 1;
-}
+}*/
 
 .main-img {
     display: flex;
