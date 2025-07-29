@@ -72,6 +72,7 @@ a {
 .header img {
     flex: auto;
     max-width: 500px;
+    border-radius: 10px;
 }
 
 .main-text {
