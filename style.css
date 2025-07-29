@@ -197,7 +197,7 @@ button {
     flex: 1;
     height: 180px;
     background-color: #3882F6;
-    padding: 0px;
+    padding: 10px;
     color: #F9FAF8;
 }
 
@@ -205,6 +205,8 @@ button {
     font-size: 26px;
     font-weight: bold;
 }
+
+
 
 /* FOOTER */
 
