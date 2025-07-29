@@ -192,6 +192,7 @@ button {
 .registration .container {
     display: flex;
     flex-basis: 800px;
+    height: 100px;
     background-color: #3882F6;
 }
 
